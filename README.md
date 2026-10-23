@@ -73,25 +73,18 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>📌 <a href="https://github.com/aliciiasarrio">Proyecto Destacado 1</a></h4>
-      <p><em>Descripción concisa de la aplicación: problema que soluciona, arquitectura empleada y principales funcionalidades.</em></p>
+    <td width="100%" valign="top">
+      <h4>🏡 <a href="https://github.com/aliciiasarrio/NIDO">NIDO — Gestión e Inventario Doméstico Inteligente</a></h4>
+      <p><em>Aplicación web Full-Stack moderna para la organización y control total del hogar: trazabilidad de stock en tiempo real, gestión jerárquica de ubicaciones, control de caducidades, motor de recetas y armario sostenible.</em></p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <p><a href="https://github.com/aliciiasarrio">🔗 Ver repositorio & demo →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📌 <a href="https://github.com/aliciiasarrio">Proyecto Destacado 2</a></h4>
-      <p><em>API / Servicio backend con arquitectura en capas, autenticación segura y persistencia de datos.</em></p>
-      <p>
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL_17-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
-      <p><a href="https://github.com/aliciiasarrio">🔗 Ver repositorio & demo →</a></p>
+      <p><a href="https://github.com/aliciiasarrio/NIDO">🔗 Ver repositorio en GitHub →</a></p>
     </td>
   </tr>
 </table>
