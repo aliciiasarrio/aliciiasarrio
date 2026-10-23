@@ -11,8 +11,8 @@
     <a href="mailto:sarriocolomaralicia@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-sarriocolomaralicia%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/alicia-sarri%C3%B3-4b6b6633a/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Alicia_Sarr%C3%ADo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/aliciiasarrio">
       <img src="https://img.shields.io/badge/GitHub-aliciiasarrio-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -95,7 +95,7 @@
 
 <p align="center">
   ¿Quieres colaborar en algún proyecto, tienes preguntas o buscas talento Full-Stack?<br />
-  No dudes en escribirme a <a href="mailto:sarriocolomaralicia@gmail.com"><strong>sarriocolomaralicia@gmail.com</strong></a>
+  Escríbeme a <a href="mailto:sarriocolomaralicia@gmail.com"><strong>sarriocolomaralicia@gmail.com</strong></a> o conecta conmigo a través de <a href="https://www.linkedin.com/in/alicia-sarri%C3%B3-4b6b6633a/" target="_blank"><strong>LinkedIn</strong></a>.
 </p>
 
 <p align="center">
