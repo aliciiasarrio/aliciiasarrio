@@ -1,22 +1,33 @@
 <div align="center">
   <img src="./banner.jpg" alt="Alicia Sarrío Banner" width="100%" />
 
-  <br />
+  <br /><br />
 
   <h1>Hola, soy Alicia Sarrío 👋</h1>
   <p><strong>Ingeniera de Software & Full-Stack Developer</strong></p>
-  <p>Graduada en <strong>Ingeniería Informática</strong> por la <strong>Universidad Politécnica de Valencia (UPV)</strong><br />Especialidad en <em>Ingeniería del Software</em></p>
+  <p>
+    Graduada en <strong>Ingeniería Informática</strong> por la <strong>Universidad Politécnica de Valencia (UPV)</strong><br />
+    <em>Especialidad en Ingeniería del Software</em>
+  </p>
 
   <p>
-    <a href="mailto:sarriocolomaralicia@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-sarriocolomaralicia%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
     <a href="https://www.linkedin.com/in/alicia-sarri%C3%B3-4b6b6633a/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Alicia_Sarr%C3%ADo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Alicia_Sarr%C3%ADo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;
+    <a href="mailto:sarriocolomaralicia@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-sarriocolomaralicia%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
     <a href="https://github.com/aliciiasarrio">
-      <img src="https://img.shields.io/badge/GitHub-aliciiasarrio-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-aliciiasarrio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Valencia%2C%20España-📍-2ea44f?style=flat-square" alt="Ubicación" />
+    <img src="https://img.shields.io/badge/Clean%20Code%20%26%20SOLID-Practitioner-blue?style=flat-square" alt="Buenas Prácticas" />
+    <img src="https://img.shields.io/badge/Full--Stack-Java%20%2B%20Angular-orange?style=flat-square" alt="Stack Principal" />
   </p>
 </div>
 
@@ -24,11 +35,11 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 Graduada en **Ingeniería Informática** en la **UPV**, especializada en el ciclo de vida completo del software, patrones de diseño y arquitecturas escalables.
-- 💻 Desarrollo aplicaciones web de extremo a extremo (**Full-Stack**) con foco en rendimiento, usabilidad y código limpio (*Clean Code* & *SOLID*).
-- 🛠️ Experiencia sólida tanto en entornos **Frontend** reactivos como en **Backend** robusto y tipado.
-- 📦 Interés continuo en containerización (**Docker**), integración continua y diseño de interfaces con **Figma**.
-- 🌱 Siempre aprendiendo y perfeccionando buenas prácticas de ingeniería de software.
+- 🎓 **Ingeniera Informática por la UPV**, con sólida formación en el ciclo de vida del software, patrones de arquitectura escalables y buenas prácticas de ingeniería (*Clean Code*, *SOLID*, *DRY*).
+- 💻 **Desarrolladora Full-Stack**: Construcción de soluciones robustas de extremo a extremo, combinando backends transaccionales y fuertemente tipados con frontends reactivos, accesibles y modulares.
+- 🏗️ **Arquitectura y Modelado**: Experiencia en diseño de APIs RESTful, control de concurrencia y persistencia relacional con PostgreSQL, migraciones de esquema versionadas (**Flyway**) y containerización con **Docker Compose**.
+- 🎨 **Diseño y Experiencia de Usuario**: Prototipado en **Figma** y aplicación rigurosa de design systems con tokens y SCSS.
+- 🌱 **Evolución Continua**: Enfocada en entregar software mantenible, con pruebas y listo para producción.
 
 ---
 
@@ -36,7 +47,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,cs,dotnet,react,angular,nodejs,spring,docker,postgres,mysql,git,linux,figma,vscode&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,cs,dotnet,react,angular,nodejs,spring,docker,postgres,mysql,git,linux,figma,vscode&theme=dark" alt="Iconos de Tecnologías" />
   </a>
 </div>
 
@@ -44,47 +55,57 @@
 
 | Área | Tecnologías & Herramientas |
 | :--- | :--- |
-| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C# .NET](https://img.shields.io/badge/C%23_.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| **Bases de Datos & DevOps** | ![SQL / Oracle](https://img.shields.io/badge/SQL_Developer-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Entorno & Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Lenguajes** | `Java 21` · `TypeScript` · `JavaScript (ES6+)` · `SQL` · `C#` · `Python` · `HTML5 / SCSS` |
+| **Backend & APIs** | `Spring Boot 4.x / 3.x` · `Spring Security` · `Spring Data JPA / Hibernate` · `Node.js` · `RESTful APIs` · `Flyway` |
+| **Frontend & UI** | `Angular 21 (Standalone Components)` · `React` · `RxJS` · `Diseño modular SCSS` · `Tokens de diseño` |
+| **Bases de Datos & Persistencia** | `PostgreSQL 17` · `MySQL` · `Oracle SQL Developer` · `Modelado Relacional E/R` |
+| **DevOps & Entorno** | `Docker` · `Docker Compose` · `Git & GitHub` · `Linux` · `VS Code` · `IntelliJ / Eclipse` · `Postman` |
+| **Diseño & Metodologías** | `Figma` · `Clean Architecture` · `SOLID` · `Scrum / Agile` · `Control de versiones` |
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Lenguajes más utilizados
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliciiasarrio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" height="165" alt="Estadísticas de GitHub" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliciiasarrio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" height="165" alt="Lenguajes más usados" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=aliciiasarrio&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=38bdf8" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliciiasarrio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" height="175" alt="Lenguajes más usados en GitHub" />
 </div>
 
 ---
 
-### 📂 Proyectos Destacados
-
-<!-- Puedes reemplazar estos ejemplos con los repositorios que quieras destacar -->
+### 📂 Proyecto Destacado
 
 <table>
   <tr>
     <td width="100%" valign="top">
-      <h4>🏡 <a href="https://github.com/aliciiasarrio/NIDO">NIDO — Gestión e Inventario Doméstico Inteligente</a></h4>
-      <p><em>Aplicación web Full-Stack moderna para la organización y control total del hogar: trazabilidad de stock en tiempo real, gestión jerárquica de ubicaciones, control de caducidades, motor de recetas y armario sostenible.</em></p>
+      <div align="center">
+        <h3>🏡 <a href="https://github.com/aliciiasarrio/NIDO">NIDO — Gestión e Inventario Doméstico Inteligente</a></h3>
+        <p><strong>Plataforma web Full-Stack integral para la organización, control y sostenibilidad del hogar.</strong></p>
+      </div>
+      
       <p>
         <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
         <img src="https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL_17-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/License-MIT-success?style=flat-square" />
       </p>
-      <p><a href="https://github.com/aliciiasarrio/NIDO">🔗 Ver repositorio en GitHub →</a></p>
+
+      <ul>
+        <li>🔐 <strong>Seguridad & Multi-hogar:</strong> Autenticación orquestada con Spring Security, contraseñas BCrypt, aislamiento estricto de datos por hogar y sistema de invitaciones temporales cifradas.</li>
+        <li>🗄️ <strong>Ubicaciones Jerárquicas:</strong> Árbol de dependencias multinivel con algoritmo de detección de ciclos y cálculo automático de rutas absolutas (<code>fullPath</code>).</li>
+        <li>🔄 <strong>Trazabilidad Atómica:</strong> Motor transaccional de movimientos (entradas, salidas, traslados y ajustes con motivo) con validación preventiva de stock negativo.</li>
+        <li>🍳 <strong>Despensa & Recetario Inteligente:</strong> Recomendador que prioriza insumos con caducidad próxima para reducir desperdicio de alimentos y genera listas de la compra sincronizadas.</li>
+        <li>👗 <strong>Armario Sostenible:</strong> Detección de prendas inactivas y generación automática de fichas para economía circular (donación o venta de segunda mano).</li>
+      </ul>
+
+      <p align="center">
+        <a href="https://github.com/aliciiasarrio/NIDO"><strong>🔗 Explorar Repositorio en GitHub</strong></a> &nbsp;•&nbsp;
+        <a href="https://github.com/aliciiasarrio/NIDO#readme"><strong>📖 Documentación Técnica</strong></a> &nbsp;•&nbsp;
+        <a href="https://github.com/aliciiasarrio/NIDO/blob/main/compose.yaml"><strong>🐳 Docker Compose Setup</strong></a>
+      </p>
     </td>
   </tr>
 </table>
@@ -93,11 +114,18 @@
 
 ### 📫 Conectemos
 
-<p align="center">
-  ¿Quieres colaborar en algún proyecto, tienes preguntas o buscas talento Full-Stack?<br />
-  Escríbeme a <a href="mailto:sarriocolomaralicia@gmail.com"><strong>sarriocolomaralicia@gmail.com</strong></a> o conecta conmigo a través de <a href="https://www.linkedin.com/in/alicia-sarri%C3%B3-4b6b6633a/" target="_blank"><strong>LinkedIn</strong></a>.
-</p>
+<div align="center">
+  <p>¿Buscas una ingeniera de software comprometida con la calidad técnica, el trabajo en equipo y el código limpio?</p>
+  <p>
+    <a href="https://www.linkedin.com/in/alicia-sarri%C3%B3-4b6b6633a/" target="_blank">
+      <img src="https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Alicia Sarrío" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:sarriocolomaralicia@gmail.com">
+      <img src="https://img.shields.io/badge/Enviar_Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Alicia Sarrío" />
+    </a>
+  </p>
 
-<p align="center">
+  <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=100&section=footer" width="100%" />
-</p>
+</div>
