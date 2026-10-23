@@ -75,39 +75,33 @@
 ### 📂 Proyecto Destacado
 
 <table>
-  <tr>
-    <td width="100%" valign="top">
-      <div align="center">
-        <h3>🏡 <a href="https://github.com/aliciiasarrio/NIDO">NIDO — Gestión e Inventario Doméstico Inteligente</a></h3>
-        <p><strong>Plataforma web Full-Stack integral para la organización, control y sostenibilidad del hogar.</strong></p>
-      </div>
-      
-      <p>
-        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL_17-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/License-MIT-success?style=flat-square" />
-      </p>
+<tr>
+<td>
 
-      <ul>
-        <li>🔐 <strong>Seguridad & Multi-hogar:</strong> Autenticación orquestada con Spring Security, contraseñas BCrypt, aislamiento estricto de datos por hogar y sistema de invitaciones temporales cifradas.</li>
-        <li>🗄️ <strong>Ubicaciones Jerárquicas:</strong> Árbol de dependencias multinivel con algoritmo de detección de ciclos y cálculo automático de rutas absolutas (<code>fullPath</code>).</li>
-        <li>🔄 <strong>Trazabilidad Atómica:</strong> Motor transaccional de movimientos (entradas, salidas, traslados y ajustes con motivo) con validación preventiva de stock negativo.</li>
-        <li>🍳 <strong>Despensa & Recetario Inteligente:</strong> Recomendador que prioriza insumos con caducidad próxima para reducir desperdicio de alimentos y genera listas de la compra sincronizadas.</li>
-        <li>👗 <strong>Armario Sostenible:</strong> Detección de prendas inactivas y generación automática de fichas para economía circular (donación o venta de segunda mano).</li>
-      </ul>
+### 🏡 [NIDO — Gestión e Inventario Doméstico Inteligente](https://github.com/aliciiasarrio/NIDO)
+**Plataforma web Full-Stack integral para la organización, control y sostenibilidad del hogar.**
 
-      <p align="center">
-        <a href="https://github.com/aliciiasarrio/NIDO"><strong>🔗 Explorar Repositorio en GitHub</strong></a> &nbsp;•&nbsp;
-        <a href="https://github.com/aliciiasarrio/NIDO#readme"><strong>📖 Documentación Técnica</strong></a> &nbsp;•&nbsp;
-        <a href="https://github.com/aliciiasarrio/NIDO/blob/main/compose.yaml"><strong>🐳 Docker Compose Setup</strong></a>
-      </p>
-    </td>
-  </tr>
+![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Angular 21](https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL 17](https://img.shields.io/badge/PostgreSQL_17-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![License MIT](https://img.shields.io/badge/License-MIT-success?style=flat-square)
+
+- 🔐 **Seguridad & Multi-hogar:** Autenticación orquestada con Spring Security, contraseñas BCrypt, aislamiento estricto de datos por hogar y sistema de invitaciones temporales cifradas.
+- 🗄️ **Ubicaciones Jerárquicas:** Árbol de dependencias multinivel con algoritmo de detección de ciclos y cálculo automático de rutas absolutas (`fullPath`).
+- 🔄 **Trazabilidad Atómica:** Motor transaccional de movimientos (entradas, salidas, traslados y ajustes con motivo) con validación preventiva de stock negativo.
+- 🍳 **Despensa & Recetario Inteligente:** Recomendador que prioriza insumos con caducidad próxima para reducir desperdicio de alimentos y genera listas de la compra sincronizadas.
+- 👗 **Armario Sostenible:** Detección de prendas inactivas y generación automática de fichas para economía circular (donación o venta de segunda mano).
+
+**[🔗 Explorar Repositorio en GitHub](https://github.com/aliciiasarrio/NIDO)** &nbsp;•&nbsp;
+**[📖 Documentación Técnica](https://github.com/aliciiasarrio/NIDO#readme)** &nbsp;•&nbsp;
+**[🐳 Docker Compose Setup](https://github.com/aliciiasarrio/NIDO/blob/main/compose.yaml)**
+
+</td>
+</tr>
 </table>
 
 ---
